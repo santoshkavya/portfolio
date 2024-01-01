@@ -1,0 +1,183 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+body{
+color:white;
+background-color: rgb(0,0,33);
+}
+nav{
+display: flex;
+justify-content: space-around;
+align-items: center;
+height: 60px;
+background-color:rgb(18,18,62);
+}
+nav ul{
+display: flex;
+justify-content: center;
+}
+nav ul li{
+list-style: none;
+margin: 0 23px;
+text-decoration: none;
+}
+nav ul li a{
+color:white;
+text-decoration: none;
+}
+nav ul li a:hover{
+color:rgb(153,153,226);
+font-size: 1.1rem;
+}
+.ram{
+    color:brown
+}
+.left{
+font-size: 1.5rem;
+}
+.right{
+font-size: 1.0rem;
+}
+.firstsec{
+display:flex;
+justify-content: space-around;
+margin: 80px 0;
+align-items: center;
+}
+.firstsec>div{
+width:35%;
+}
+.leftsec{
+font-size: 2.8rem;
+margin: 20px;
+}
+.rightsec img{
+width: 100%;
+}
+.pur{
+color:blueviolet;
+}
+.p{
+color:rgb(91, 86, 86)
+}
+.firstsection{
+display:flex;
+justify-content: space-around;
+margin: 80px 0;
+
+}
+.firstsection>div{
+width:60%;
+}
+.rightsection{
+margin: 20px;
+font-size: 1.15rem;
+width:100%;
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.leftsection img{
+width: 50%;
+margin-left: 20px;
+}
+.l{
+color:rgb(110, 108, 108);
+font-size: 1.5rem;
+}
+.ser{
+font-size: 1.5rem;
+align-items: center;
+margin-left: 40px;
+}
+.co{
+margin-left: 30px;
+}
+.con{
+color:white;
+text-decoration: none;
+margin: 50px;
+background-color: antiquewhite;
+}
+.fa-facebook{
+margin-right:10px;
+}
+.fa-instagram{
+margin-right: 10px;
+}
+.fa-envelope{
+margin-right: 10px;
+}
+.fa-linkedin{
+margin-right: 10px;
+}
+.sch{
+background-color:rgb(18,18,62) ;
+padding: 20px 20px 20px 20px;
+    margin-left: 400px;
+    margin-right:400px;
+}
+.coll{
+background-color:rgb(18,18,62) ;
+padding: 20px 20px 20px 20px;
+    margin-left: 400px;
+    margin-right:400px;
+}
+.eng{
+background-color:rgb(18,18,62) ;
+padding: 20px 20px 20px 20px;
+    margin-left: 400px;
+    margin-right:400px;
+}
+.exp{
+background-color:rgb(18,18,62) ;
+padding: 20px 20px 20px 20px;
+    margin-left: 400px;
+    margin-right:400px;
+}
+.pro{
+margin-left: 30px;
+}
+.skill { 
+        background-color: rgb(116, 194, 92); 
+        color: white; 
+        padding: 1%; 
+        text-align: right; 
+        font-size: 20px; 
+            border-radius: 15px; 
+    } 
+    .container1{ 
+        background-color: rgb(192, 192, 192); 
+        width: 80%; 
+            border-radius: 15px; 
+    } 
+.python{
+width: 70%;
+}
+.java{
+width:55%;
+background-color: rebeccapurple;
+}
+.html{
+width: 90%;
+background-color:brown;
+}
+.css{
+width: 80%;
+background-color: blueviolet;
+}
+.javascript{
+width: 35%;
+background-color: coral;
+}
+.container1{
+margin-left: 30px;
+}
+.container2{
+margin-left: 30px;
+}
+h3{
+font-family: Georgia, 'Times New Roman', Times, serif;
+}
+h5{
+font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
